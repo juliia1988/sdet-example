@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Radancy.Interviews.Banking.Sdet.Api", "src\Radancy.Interviews.Banking.Sdet.Api\Radancy.Interviews.Banking.Sdet.Api.csproj", "{CF89E9CA-963D-4F69-BD4B-1D8345DCA9DA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00-Solution Items", "00-Solution Items", "{7C179662-2CA6-462C-90B8-03587CAD9AF0}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apiTestRadancy", "apiTestRadancy\apiTestRadancy.csproj", "{2FCE945B-53DF-4D83-B1DE-B1D1FBD2AF70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF89E9CA-963D-4F69-BD4B-1D8345DCA9DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF89E9CA-963D-4F69-BD4B-1D8345DCA9DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF89E9CA-963D-4F69-BD4B-1D8345DCA9DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF89E9CA-963D-4F69-BD4B-1D8345DCA9DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCE945B-53DF-4D83-B1DE-B1D1FBD2AF70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCE945B-53DF-4D83-B1DE-B1D1FBD2AF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCE945B-53DF-4D83-B1DE-B1D1FBD2AF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCE945B-53DF-4D83-B1DE-B1D1FBD2AF70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
